@@ -157,8 +157,8 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "- To use RV-X without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest)."
-log "- To detach RV-X from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module."
+log "- To use RV without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest)."
+log "- To detach RV from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module."
 log "\nChangelog:"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 log ""
