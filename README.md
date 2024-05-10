@@ -42,6 +42,6 @@ bash <(curl -sSf https://raw.githubusercontent.com/AbakNacchan/RV/main/build-ter
 ### On Desktop
 ```console
 $ git clone https://github.com/AbakNacchan/RV
-$ cd revanced-extended
+$ cd RV
 $ ./build.sh
 ```
