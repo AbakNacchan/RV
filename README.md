@@ -26,7 +26,7 @@ Be aware that GitHub Actions will trigger the <a href="../../actions/workflows/c
 [**See the list of patches**](https://j-hc.github.io/rvmm-config-gen/)
 
  * Star the repo
- * Use the repo as a [template](https://github.com/AbakNacchan/revanced-extended/fork)
+ * Use the repo as a [template](https://github.com/AbakNacchan/RV/fork)
  * Customize [`config.toml`](./config.toml) using [rvmm-config-gen](https://j-hc.github.io/rvmm-config-gen/)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
