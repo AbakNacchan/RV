@@ -71,7 +71,7 @@ jobs:
           body: ${{ steps.get_output.outputs.BUILD_LOG }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./build/*
-          release_name: RV-X v${{ steps.date.outputs.DATE }}
+          release_name: RV v${{ steps.date.outputs.DATE }}
           tag: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
           draft: true
           file_glob: true
