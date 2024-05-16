@@ -5,8 +5,8 @@ Music: 6.46.53
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.9.0-dev.10.apk  
-Patches: ReVanced/revanced-patches-4.8.0-dev.17.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.17)  
+Integrations: ReVanced/revanced-integrations-1.9.0-dev.12.apk  
+Patches: ReVanced/revanced-patches-4.8.0-dev.18.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.18)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
