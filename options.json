@@ -1,1 +1,17 @@
-[]
+        
+[
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "@android:color/black"
+      },
+      {
+        "key": "lightThemeBackgroundColor",
+        "value": "@android:color/white"
+      }
+    ]
+  }
+]
+        
