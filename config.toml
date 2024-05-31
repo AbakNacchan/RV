@@ -1,5 +1,5 @@
 enable-magisk-update = true
-patches-version = "v4.8.3-dev.2"
+patches-version = "v4.8.3-dev.4"
 integrations-version = "v1.9.2-dev.3"
 
 
