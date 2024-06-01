@@ -1,6 +1,6 @@
 enable-magisk-update = true
-# patches-version = "v4.8.3-dev.4"
-# integrations-version = "v1.9.2-dev.3"
+# patches-version = "v4.9.0-dev.5"
+# integrations-version = "v1.10.0-dev.3"
 
 
 [YouTube]
@@ -17,9 +17,13 @@ apkmirror-arch = "arm64-v8a"
 # enabled = false
 build-mode = "both"
 version = "auto"
+included-patches = "'Hide category bar' 'Permanent shuffle' 'Permanent repeat'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 included-patches = "'Open links with app chooser'"
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
