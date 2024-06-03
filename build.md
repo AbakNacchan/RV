@@ -6,8 +6,8 @@ Twitter: 10.43.0-release.0
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.10.0-dev.3.apk  
-Patches: ReVanced/revanced-patches-4.9.0-dev.5.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.5)  
+Integrations: ReVanced/revanced-integrations-1.10.0.apk  
+Patches: ReVanced/revanced-patches-4.9.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
