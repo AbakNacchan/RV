@@ -23,7 +23,10 @@ apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "arm64-v8a"
 included-patches = "'Open links with app chooser'"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+arch = "arm64-v8a"
+build-mode = "both"
