@@ -7,8 +7,8 @@ Instagram: 334.0.0.42.95
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.11.0-dev.2.apk  
-Patches: ReVanced/revanced-patches-4.10.0-dev.2.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.2)  
+Integrations: ReVanced/revanced-integrations-1.11.0-dev.5.apk  
+Patches: ReVanced/revanced-patches-4.10.0-dev.6.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.6)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
