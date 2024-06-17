@@ -1,7 +1,7 @@
 Music: 7.03.52  
 YouTube: 19.16.39  
-Twitter: 10.44.0-release.0  
-Instagram: 334.0.0.42.95  
+Twitter: 10.45.1-release.0  
+Instagram: 335.0.0.39.93  
 - To use RV without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest).  
 - To detach RV from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
 
