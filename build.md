@@ -1,5 +1,5 @@
-Music: 7.03.52  
 YouTube: 19.16.39  
+Music: 7.03.52  
 Twitter: 10.45.1-release.0  
 - To use RV without root, install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases/latest).  
 - To detach RV from Play Store, use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
@@ -7,7 +7,7 @@ Twitter: 10.45.1-release.0
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.11.0-dev.7.apk  
-Patches: ReVanced/revanced-patches-4.10.0-dev.9.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.9)  
+Patches: ReVanced/revanced-patches-4.10.0-dev.10.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.10)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
