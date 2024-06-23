@@ -1,20 +1,19 @@
 enable-magisk-update = true
-patches-version = "v4.10.0-dev.10"
-integrations-version = "v1.11.0-dev.7"
+patches-version = "v4.10.1-dev.1"
+integrations-version = "v1.11.1-dev.1"
 
 
 [YouTube]
 app-name = "YouTube"
 build-mode = "both"
 version = "auto"
-included-patches = "'Remove player controls background' 'Enable slide to seek'"
-excluded-patches = "'Announcements' 'Enable debugging'"
+included-patches = "'Remove player controls background' 'Custom branding' 'Enable slide to seek'"
+excluded-patches = "'Enable debugging' 'Announcements'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 arch = "arm64-v8a"
 apkmirror-arch = "arm64-v8a"
 
 [Music]
-# enabled = false
 build-mode = "both"
 version = "auto"
 included-patches = "'Hide category bar' 'Permanent shuffle' 'Permanent repeat'"
@@ -25,9 +24,3 @@ apkmirror-arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "arm64-v8a"
 included-patches = "'Open links with app chooser'"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-arch = "arm64-v8a"
-build-mode = "both"
-apkmirror-arch = "arm64-v8a"
