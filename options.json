@@ -1,16 +1,16 @@
 [ {
-    "patchName": "Theme",
+    "patchName" : "Theme",
     "options" : [ {
         "key": "darkThemeBackgroundColor",
         "value": "@android:color/black"
     }, {
         "key": "lightThemeBackgroundColor",
         "value": "@android:color/white"
-    } ]
+    } ]  
   }, {
-    "patchName": "Custom branding",
-    "options" : [ {
-        "key": "appName",
-        "value": "YouTube"
+    "patchName" : "Custom branding",
+     "options" : [ {
+      "key" : "appName",
+      "value" : "YouTube"
     } ]
 } ]
