@@ -1,10 +1,9 @@
 enable-magisk-update = true
-patches-version = "v4.11.0-dev.5"
-integrations-version = "v1.11.1-dev.3"
+# patches-version = "v4.11.0-dev.5"
+integrations-version = "v1.11.2-dev.1"
 
 
 [YouTube]
-app-name = "YouTube"
 build-mode = "both"
 version = "auto"
 included-patches = "'Remove player controls background' 'Enable slide to seek'"
