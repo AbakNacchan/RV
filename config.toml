@@ -20,6 +20,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 apkmirror-arch = "arm64-v8a"
 
 [Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
 arch = "arm64-v8a"
 included-patches = "'Open links with app chooser'"
