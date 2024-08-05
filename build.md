@@ -6,7 +6,7 @@ YouTube: 19.16.39
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.12.0-dev.6.apk  
-Patches: ReVanced/revanced-patches-4.12.0-dev.11.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.11)  
+Patches: ReVanced/revanced-patches-4.12.0-dev.13.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/vdev.13)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
