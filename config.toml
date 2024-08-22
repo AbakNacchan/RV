@@ -1,13 +1,13 @@
 enable-magisk-update = true
-# patches-version = "v4.12.0-dev.13"
-# integrations-version = "v1.12.0-dev.6"
+# patches-version = "v4.13.4-dev.2"
+# integrations-version = "v1.13.1-dev.2"
 
 
 [YouTube]
 build-mode = "both"
 version = "auto"
-included-patches = "'Remove player controls background' 'Enable slide to seek'"
-excluded-patches = "'Disable zoom haptics' 'Enable debugging' 'Announcements' 'Disable rolling number animations'"
+included-patches = "'Remove player controls background' 'Custom branding' 'Enable slide to seek'"
+excluded-patches = "'Announcements' 'Enable debugging'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 arch = "arm64-v8a"
 apkmirror-arch = "arm64-v8a"
